@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stephen
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on everythin
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me stephendevelop@gmail.com
 
 <!---
